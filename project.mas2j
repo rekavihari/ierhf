@@ -1,0 +1,24 @@
+/*
+    Jason Project
+*/
+
+
+
+MAS gui2 {
+   infrastructure: Centralised
+   environment: create
+   agents:
+       kozpont;
+	   
+       restaurant;
+	   
+	   ib026;
+	   
+	   ib027;
+
+       storage;
+	  
+       heater;
+
+       cooler;
+ }
